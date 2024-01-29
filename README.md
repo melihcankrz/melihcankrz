@@ -1,16 +1,13 @@
-### Hi there 👋
+## Github profilime hoş geldiniz!
 
-<!--
-**melihcankrz/melihcankrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hakkımda
+Merhaba! Ben Melihcan Karaz. PHP alanında faaliyet gösteren bir web geliştiriciyim.Web dünyasındaki yenilikleri takip ediyorum. HTML, CSS ve Bootstrap gibi önemli web teknolojilerine hakimim.
 
-Here are some ideas to get you started:
+## Yeteneklerim
+- Web Geliştirme: PHP, HTML, CSS, Bootstrap
+- Programlama Dilleri: PHP
+- Veritabanları: MySQL
+  
+## İletişim
+- 💼 LinkedIn: https://www.linkedin.com/in/melihcan-karaz-931918200/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
