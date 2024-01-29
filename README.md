@@ -1,5 +1,6 @@
 ## Github profilime hoş geldiniz!
-![a](https://github.com/melihcankrz/melihcankrz/assets/148056955/faeaeb92-42fe-4b31-b72a-d258cc109b41)
+![indir](https://github.com/melihcankrz/melihcankrz/assets/148056955/d29f9c2a-5d76-408a-8ba8-844db105130b)
+
 
 ## Hakkımda
 Merhaba! Ben Melihcan Karaz. PHP alanında faaliyet gösteren bir web geliştiriciyim.Web dünyasındaki yenilikleri takip ediyorum. HTML, CSS ve Bootstrap gibi önemli web teknolojilerine hakimim.
